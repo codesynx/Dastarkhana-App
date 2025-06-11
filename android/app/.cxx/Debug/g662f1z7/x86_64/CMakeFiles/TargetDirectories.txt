@@ -1,0 +1,2 @@
+C:/Users/flyxn/Desktop/Dastarkhana/dastarkhana/android/app/.cxx/Debug/g662f1z7/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/flyxn/Desktop/Dastarkhana/dastarkhana/android/app/.cxx/Debug/g662f1z7/x86_64/CMakeFiles/rebuild_cache.dir

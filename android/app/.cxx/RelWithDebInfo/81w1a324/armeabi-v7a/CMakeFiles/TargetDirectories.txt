@@ -1,0 +1,2 @@
+C:/Users/user/Documents/Dastarkhana/dastarkhana/android/app/.cxx/RelWithDebInfo/81w1a324/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/user/Documents/Dastarkhana/dastarkhana/android/app/.cxx/RelWithDebInfo/81w1a324/armeabi-v7a/CMakeFiles/rebuild_cache.dir
