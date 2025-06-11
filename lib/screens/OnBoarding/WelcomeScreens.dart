@@ -1,6 +1,6 @@
-import 'package:Dastarkhana/screens/OnBoarding/onBordingScreens.dart';
+import 'package:dastarkhana/screens/OnBoarding/onBordingScreens.dart';
 import 'package:flutter/material.dart';
-import 'package:Dastarkhana/utils/colors.dart';
+import 'package:dastarkhana/utils/colors.dart';
 
 class WelcomeScreens extends StatefulWidget {
   const WelcomeScreens({super.key});

@@ -1,4 +1,4 @@
-import 'package:Dastarkhana/services/DeliveryService/signin_service.dart';
+import 'package:dastarkhana/services/DeliveryService/signin_service.dart';
 import 'package:flutter/material.dart';
 import '../../screens/OnBoarding/RoleScreen.dart';
 import '../../utils/colors.dart';

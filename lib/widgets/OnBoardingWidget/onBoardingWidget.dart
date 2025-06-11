@@ -1,6 +1,6 @@
-import 'package:Dastarkhana/screens/User/Home.dart';
-import 'package:Dastarkhana/auth/Userauth/SignUpForm.dart';
-import 'package:Dastarkhana/screens/OnBoarding/RoleScreen.dart';
+import 'package:dastarkhana/screens/User/Home.dart';
+import 'package:dastarkhana/auth/Userauth/SignUpForm.dart';
+import 'package:dastarkhana/screens/OnBoarding/RoleScreen.dart';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../../utils/colors.dart';

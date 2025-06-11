@@ -1,7 +1,7 @@
-import 'package:Dastarkhana/models/Card.model.dart';
-import 'package:Dastarkhana/widgets/CartWidget/EmptyCart.dart';
-import 'package:Dastarkhana/widgets/CartWidget/LocationBarWidget.dart';
-import 'package:Dastarkhana/widgets/CartWidget/ProductItemWidget.dart';
+import 'package:dastarkhana/models/Card.model.dart';
+import 'package:dastarkhana/widgets/CartWidget/EmptyCart.dart';
+import 'package:dastarkhana/widgets/CartWidget/LocationBarWidget.dart';
+import 'package:dastarkhana/widgets/CartWidget/ProductItemWidget.dart';
 import 'package:flutter/material.dart';
 import 'package:geolocator/geolocator.dart';
 import 'package:provider/provider.dart';

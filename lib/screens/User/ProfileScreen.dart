@@ -1,5 +1,5 @@
-import 'package:Dastarkhana/utils/colors.dart';
-import 'package:Dastarkhana/widgets/AuthFormWidget/SignInButtonWidget.dart';
+import 'package:dastarkhana/utils/colors.dart';
+import 'package:dastarkhana/widgets/AuthFormWidget/SignInButtonWidget.dart';
 import 'package:flutter/material.dart';
 import 'dart:convert';
 import '../../services/UserService/updateUser_service.dart';

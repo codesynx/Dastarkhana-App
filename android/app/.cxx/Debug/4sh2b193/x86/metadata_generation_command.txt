@@ -9,10 +9,10 @@
 -DCMAKE_ANDROID_NDK=C:\Users\user\AppData\Local\Android\sdk\ndk\25.1.8937393
 -DCMAKE_TOOLCHAIN_FILE=C:\Users\user\AppData\Local\Android\sdk\ndk\25.1.8937393\build\cmake\android.toolchain.cmake
 -DCMAKE_MAKE_PROGRAM=C:\Users\user\AppData\Local\Android\sdk\cmake\3.22.1\bin\ninja.exe
--DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\Users\user\Documents\Dastarkhana (3)\Dastarkhana\dastarkhana\build\app\intermediates\cxx\Debug\4sh2b193\obj\x86
--DCMAKE_RUNTIME_OUTPUT_DIRECTORY=C:\Users\user\Documents\Dastarkhana (3)\Dastarkhana\dastarkhana\build\app\intermediates\cxx\Debug\4sh2b193\obj\x86
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=C:\Users\user\Documents\dastarkhana (3)\dastarkhana\dastarkhana\build\app\intermediates\cxx\Debug\4sh2b193\obj\x86
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=C:\Users\user\Documents\dastarkhana (3)\dastarkhana\dastarkhana\build\app\intermediates\cxx\Debug\4sh2b193\obj\x86
 -DCMAKE_BUILD_TYPE=Debug
--BC:\Users\user\Documents\Dastarkhana (3)\Dastarkhana\dastarkhana\android\app\.cxx\Debug\4sh2b193\x86
+-BC:\Users\user\Documents\dastarkhana (3)\dastarkhana\dastarkhana\android\app\.cxx\Debug\4sh2b193\x86
 -GNinja
 -Wno-dev
 --no-warn-unused-cli

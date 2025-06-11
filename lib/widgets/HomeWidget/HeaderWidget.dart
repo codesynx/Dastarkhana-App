@@ -1,11 +1,11 @@
-import 'package:Dastarkhana/Cartscreen/Cartscreen.dart';
+import 'package:dastarkhana/Cartscreen/Cartscreen.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';
 import 'package:http/http.dart' as http;
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:Dastarkhana/auth/Userauth/SignInForm.dart';
+import 'package:dastarkhana/auth/Userauth/SignInForm.dart';
 import '../../utils/api_constants.dart';
 import '../../utils/colors.dart';
 

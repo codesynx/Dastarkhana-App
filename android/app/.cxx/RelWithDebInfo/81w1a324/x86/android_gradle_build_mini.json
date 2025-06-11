@@ -6,14 +6,14 @@
     [
       "C:\\Users\\user\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
       "-C",
-      "C:\\Users\\user\\Documents\\Dastarkhana\\dastarkhana\\android\\app\\.cxx\\RelWithDebInfo\\81w1a324\\x86",
+      "C:\\Users\\user\\Documents\\dastarkhana\\dastarkhana\\android\\app\\.cxx\\RelWithDebInfo\\81w1a324\\x86",
       "clean"
     ]
   ],
   "buildTargetsCommandComponents": [
     "C:\\Users\\user\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
     "-C",
-    "C:\\Users\\user\\Documents\\Dastarkhana\\dastarkhana\\android\\app\\.cxx\\RelWithDebInfo\\81w1a324\\x86",
+    "C:\\Users\\user\\Documents\\dastarkhana\\dastarkhana\\android\\app\\.cxx\\RelWithDebInfo\\81w1a324\\x86",
     "{LIST_OF_TARGETS_TO_BUILD}"
   ],
   "libraries": {}

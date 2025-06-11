@@ -1,4 +1,4 @@
-import 'package:Dastarkhana/utils/colors.dart'; // Assuming successColor is defined here
+import 'package:dastarkhana/utils/colors.dart'; // Assuming successColor is defined here
 import 'package:flutter/material.dart';
 
 class SignInButtonWidget extends StatelessWidget {

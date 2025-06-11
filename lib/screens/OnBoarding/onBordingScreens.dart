@@ -1,4 +1,4 @@
-import 'package:Dastarkhana/screens/OnBoarding/RoleScreen.dart';
+import 'package:dastarkhana/screens/OnBoarding/RoleScreen.dart';
 import 'package:flutter/material.dart';
 import 'package:smooth_page_indicator/smooth_page_indicator.dart';
 import '../../widgets/OnBoardingWidget/onBoardingWidget.dart';
@@ -50,7 +50,7 @@ class _OnBoardingScreensState extends State<OnBoardingScreens> {
                   image: "assets/images/3.png",
                   text: 'Жаңа тағамдарды ашыңыз!',
                   description:
-                  "Әртүрлі ас мәзірлерін зерттеп, сүйікті тағамдарыңызды табыңыз. Dastarkhana бәрін бір қолданбада жинады!",
+                  "Әртүрлі ас мәзірлерін зерттеп, сүйікті тағамдарыңызды табыңыз. dastarkhana бәрін бір қолданбада жинады!",
                   pageIndex: 1,
                   pageController: _pageController, // Pass the PageController
                 ),

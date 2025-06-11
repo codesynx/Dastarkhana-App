@@ -1,1 +1,1 @@
-C:\Users\user\Documents\Dastarkhana\dastarkhana\build\app\intermediates\cxx\RelWithDebInfo\81w1a324\obj\x86
+C:\Users\user\Documents\dastarkhana\dastarkhana\build\app\intermediates\cxx\RelWithDebInfo\81w1a324\obj\x86

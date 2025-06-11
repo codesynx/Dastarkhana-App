@@ -1,5 +1,5 @@
-import 'package:Dastarkhana/screens/Deliveryman/Home.dart' as DeliveryManHome;
-import 'package:Dastarkhana/screens/User/Home.dart' as UserHome;
+import 'package:dastarkhana/screens/Deliveryman/Home.dart' as DeliveryManHome;
+import 'package:dastarkhana/screens/User/Home.dart' as UserHome;
 import 'package:flutter/material.dart';
 import 'package:get/get_navigation/src/root/get_material_app.dart';
 import 'package:provider/provider.dart';

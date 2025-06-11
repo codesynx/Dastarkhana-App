@@ -1,5 +1,5 @@
-import 'package:Dastarkhana/screens/User/ProfileScreen.dart';
-import 'package:Dastarkhana/utils/colors.dart';
+import 'package:dastarkhana/screens/User/ProfileScreen.dart';
+import 'package:dastarkhana/utils/colors.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get/get_core/src/get_main.dart';

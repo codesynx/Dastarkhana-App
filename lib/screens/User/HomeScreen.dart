@@ -1,11 +1,11 @@
 import 'dart:convert';
-import 'package:Dastarkhana/widgets/HomeWidget/HeaderWidget.dart';
+import 'package:dastarkhana/widgets/HomeWidget/HeaderWidget.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
-import 'package:Dastarkhana/widgets/HomeWidget/DiscountSectionWidget.dart';
-import 'package:Dastarkhana/widgets/HomeWidget/CategoryWidget.dart';
-import 'package:Dastarkhana/widgets/HomeWidget/SearchBarWidget.dart';
-import 'package:Dastarkhana/widgets/HomeWidget/SpecialOffersWidget.dart';
+import 'package:dastarkhana/widgets/HomeWidget/DiscountSectionWidget.dart';
+import 'package:dastarkhana/widgets/HomeWidget/CategoryWidget.dart';
+import 'package:dastarkhana/widgets/HomeWidget/SearchBarWidget.dart';
+import 'package:dastarkhana/widgets/HomeWidget/SpecialOffersWidget.dart';
 import '../../utils/api_constants.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 

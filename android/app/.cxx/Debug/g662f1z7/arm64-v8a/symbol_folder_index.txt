@@ -1,1 +1,1 @@
-C:\Users\flyxn\Desktop\Dastarkhana\dastarkhana\build\app\intermediates\cxx\Debug\g662f1z7\obj\arm64-v8a
+C:\Users\flyxn\Desktop\dastarkhana\dastarkhana\build\app\intermediates\cxx\Debug\g662f1z7\obj\arm64-v8a

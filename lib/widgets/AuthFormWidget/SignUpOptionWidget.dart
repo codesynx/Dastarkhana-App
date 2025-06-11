@@ -1,6 +1,6 @@
-import 'package:Dastarkhana/utils/colors.dart';
+import 'package:dastarkhana/utils/colors.dart';
 import 'package:flutter/material.dart';
-import 'package:Dastarkhana/auth/Userauth/SignUpForm.dart';
+import 'package:dastarkhana/auth/Userauth/SignUpForm.dart';
 
 class SignUpOptionWidget extends StatelessWidget {
   @override

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:Dastarkhana/utils/colors.dart';
+import 'package:dastarkhana/utils/colors.dart';
 import 'package:flutter_advanced_switch/flutter_advanced_switch.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../../auth/DeliveryManAuth/SignInFormDelivery.dart';
@@ -91,7 +91,7 @@ class _HomeState extends State<Home> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Colors.white,
-        title: Text("Dastarkhana", style: TextStyle(color: successColor, fontWeight: FontWeight.bold)),
+        title: Text("dastarkhana", style: TextStyle(color: successColor, fontWeight: FontWeight.bold)),
         actions: [
           IconButton(
             icon: AnimatedSwitcher(

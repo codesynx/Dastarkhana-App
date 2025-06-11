@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:Dastarkhana/utils/colors.dart';
-import 'package:Dastarkhana/products/MenuProducts.dart';
+import 'package:dastarkhana/utils/colors.dart';
+import 'package:dastarkhana/products/MenuProducts.dart';
 
 class CategoryWidget extends StatefulWidget {
   final List<dynamic> categories;

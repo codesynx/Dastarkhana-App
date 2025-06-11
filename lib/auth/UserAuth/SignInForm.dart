@@ -1,6 +1,6 @@
-import 'package:Dastarkhana/widgets/AuthFormWidget/ForgetPasswordWidget.dart';
+import 'package:dastarkhana/widgets/AuthFormWidget/ForgetPasswordWidget.dart';
 import 'package:flutter/material.dart';
-import 'package:Dastarkhana/services/UserService/signin_service.dart';
+import 'package:dastarkhana/services/UserService/signin_service.dart';
 import '../../screens/OnBoarding/RoleScreen.dart';
 import '../../utils/colors.dart';
 import '../../widgets/AuthFormWidget/HeaderWidget.dart';

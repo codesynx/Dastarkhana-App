@@ -1,8 +1,8 @@
 import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
-import 'package:Dastarkhana/products/productsDetails.dart';
-import 'package:Dastarkhana/utils/colors.dart';
+import 'package:dastarkhana/products/productsDetails.dart';
+import 'package:dastarkhana/utils/colors.dart';
 import '../utils/api_constants.dart';
 
 class GetHome extends StatefulWidget {

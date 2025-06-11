@@ -1,8 +1,8 @@
 import 'dart:convert';
 
-import 'package:Dastarkhana/auth/Userauth/SignInForm.dart';
-import 'package:Dastarkhana/auth/Userauth/VerifyResetCodePage.dart';
-import 'package:Dastarkhana/auth/Userauth/updatePassword.dart';
+import 'package:dastarkhana/auth/Userauth/SignInForm.dart';
+import 'package:dastarkhana/auth/Userauth/VerifyResetCodePage.dart';
+import 'package:dastarkhana/auth/Userauth/updatePassword.dart';
 import 'package:http/http.dart' as http;
 import 'package:flutter/material.dart';
 import '../../utils/api_constants.dart';
