@@ -602,13 +602,13 @@
       "languageVersion": "2.19"
     },
     {
-      "name": "Dastarkhana",
+      "name": "dastarkhana",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "3.5"
     }
   ],
-  "generated": "2025-06-06T15:57:36.913355Z",
+  "generated": "2025-06-11T14:49:04.981034Z",
   "generator": "pub",
   "generatorVersion": "3.7.2",
   "flutterRoot": "file:///C:/Users/flyxn/Documents/flutter",
