@@ -4,24 +4,7 @@
             "outputFile": "com.example.dastarkhana.app-mergeDebugResources-29:/values-lv/values-lv.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\flyxn\\.gradle\\caches\\8.10.2\\transforms\\4bbe40f05f636576dd8dd457e1d30f7b\\transformed\\jetified-play-services-basement-18.3.0\\res\\values-lv\\values.xml",
-                    "from": {
-                        "startLines": "4",
-                        "startColumns": "0",
-                        "startOffsets": "195",
-                        "endColumns": "161",
-                        "endOffsets": "356"
-                    },
-                    "to": {
-                        "startLines": "17",
-                        "startColumns": "4",
-                        "startOffsets": "1791",
-                        "endColumns": "165",
-                        "endOffsets": "1952"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\flyxn\\.gradle\\caches\\8.10.2\\transforms\\ce82247118ecb1125d1b78d117204a8f\\transformed\\jetified-play-services-base-18.3.0\\res\\values-lv\\values.xml",
+                    "source": "C:\\Users\\flyxn\\.gradle\\caches\\8.10.2\\transforms\\9db9b81a577112600e8d2ee7b5450923\\transformed\\jetified-play-services-base-18.3.0\\res\\values-lv\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -38,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\flyxn\\.gradle\\caches\\8.10.2\\transforms\\69b7df610e895debec5a3d16d9651b17\\transformed\\browser-1.8.0\\res\\values-lv\\values-lv.xml",
+                    "source": "C:\\Users\\flyxn\\.gradle\\caches\\8.10.2\\transforms\\308a2e77faa557d0bd706972416bde6a\\transformed\\browser-1.8.0\\res\\values-lv\\values-lv.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -55,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\flyxn\\.gradle\\caches\\8.10.2\\transforms\\926a55876ca23f1cf9283404a0c2dea1\\transformed\\core-1.13.1\\res\\values-lv\\values-lv.xml",
+                    "source": "C:\\Users\\flyxn\\.gradle\\caches\\8.10.2\\transforms\\8cf478dec41eed746328fa8046755ba2\\transformed\\core-1.13.1\\res\\values-lv\\values-lv.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -69,6 +52,23 @@
                         "startOffsets": "55,153,255,355,456,563,671,3510",
                         "endColumns": "97,101,99,100,106,107,114,100",
                         "endOffsets": "148,250,350,451,558,666,781,3606"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\flyxn\\.gradle\\caches\\8.10.2\\transforms\\abeed4f47a72eff8f5b4e9bf7f2f3c91\\transformed\\jetified-play-services-basement-18.3.0\\res\\values-lv\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "195",
+                        "endColumns": "161",
+                        "endOffsets": "356"
+                    },
+                    "to": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "1791",
+                        "endColumns": "165",
+                        "endOffsets": "1952"
                     }
                 }
             ]

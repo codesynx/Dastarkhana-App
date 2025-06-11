@@ -1,2 +1,0 @@
-C:/Users/user/Documents/dastarkhana (3)/dastarkhana/dastarkhana/android/app/.cxx/Debug/4sh2b193/x86/CMakeFiles/edit_cache.dir
-C:/Users/user/Documents/dastarkhana (3)/dastarkhana/dastarkhana/android/app/.cxx/Debug/4sh2b193/x86/CMakeFiles/rebuild_cache.dir

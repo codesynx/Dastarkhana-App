@@ -4,41 +4,7 @@
             "outputFile": "com.example.dastarkhana.app-mergeDebugResources-29:/values-hi/values-hi.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\flyxn\\.gradle\\caches\\8.10.2\\transforms\\69b7df610e895debec5a3d16d9651b17\\transformed\\browser-1.8.0\\res\\values-hi\\values-hi.xml",
-                    "from": {
-                        "startLines": "2,3,4,5",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "55,161,263,375",
-                        "endColumns": "105,101,111,102",
-                        "endOffsets": "156,258,370,473"
-                    },
-                    "to": {
-                        "startLines": "27,28,29,30",
-                        "startColumns": "4,4,4,4",
-                        "startOffsets": "3039,3145,3247,3359",
-                        "endColumns": "105,101,111,102",
-                        "endOffsets": "3140,3242,3354,3457"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\flyxn\\.gradle\\caches\\8.10.2\\transforms\\926a55876ca23f1cf9283404a0c2dea1\\transformed\\core-1.13.1\\res\\values-hi\\values-hi.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,153,256,361,462,575,681,808",
-                        "endColumns": "97,102,104,100,112,105,126,100",
-                        "endOffsets": "148,251,356,457,570,676,803,904"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,31",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,153,256,361,462,575,681,3462",
-                        "endColumns": "97,102,104,100,112,105,126,100",
-                        "endOffsets": "148,251,356,457,570,676,803,3558"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\flyxn\\.gradle\\caches\\8.10.2\\transforms\\4bbe40f05f636576dd8dd457e1d30f7b\\transformed\\jetified-play-services-basement-18.3.0\\res\\values-hi\\values.xml",
+                    "source": "C:\\Users\\flyxn\\.gradle\\caches\\8.10.2\\transforms\\abeed4f47a72eff8f5b4e9bf7f2f3c91\\transformed\\jetified-play-services-basement-18.3.0\\res\\values-hi\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",
@@ -55,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\flyxn\\.gradle\\caches\\8.10.2\\transforms\\ce82247118ecb1125d1b78d117204a8f\\transformed\\jetified-play-services-base-18.3.0\\res\\values-hi\\values.xml",
+                    "source": "C:\\Users\\flyxn\\.gradle\\caches\\8.10.2\\transforms\\9db9b81a577112600e8d2ee7b5450923\\transformed\\jetified-play-services-base-18.3.0\\res\\values-hi\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -69,6 +35,40 @@
                         "startOffsets": "808,916,1076,1202,1314,1465,1595,1707,1965,2122,2231,2397,2527,2668,2821,2884,2951",
                         "endColumns": "107,159,125,111,150,129,111,111,156,108,165,129,140,152,62,66,87",
                         "endOffsets": "911,1071,1197,1309,1460,1590,1702,1814,2117,2226,2392,2522,2663,2816,2879,2946,3034"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\flyxn\\.gradle\\caches\\8.10.2\\transforms\\308a2e77faa557d0bd706972416bde6a\\transformed\\browser-1.8.0\\res\\values-hi\\values-hi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,161,263,375",
+                        "endColumns": "105,101,111,102",
+                        "endOffsets": "156,258,370,473"
+                    },
+                    "to": {
+                        "startLines": "27,28,29,30",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "3039,3145,3247,3359",
+                        "endColumns": "105,101,111,102",
+                        "endOffsets": "3140,3242,3354,3457"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\flyxn\\.gradle\\caches\\8.10.2\\transforms\\8cf478dec41eed746328fa8046755ba2\\transformed\\core-1.13.1\\res\\values-hi\\values-hi.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,256,361,462,575,681,808",
+                        "endColumns": "97,102,104,100,112,105,126,100",
+                        "endOffsets": "148,251,356,457,570,676,803,904"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,31",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,153,256,361,462,575,681,3462",
+                        "endColumns": "97,102,104,100,112,105,126,100",
+                        "endOffsets": "148,251,356,457,570,676,803,3558"
                     }
                 }
             ]
